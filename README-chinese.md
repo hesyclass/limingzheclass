@@ -15,3 +15,8 @@
 完成后这样就行了。
 ![temp4.PNG](https://i.loli.net/2018/11/14/5bebde489722e.png)
 然后设置环境变量
+![video.gif](https://i.loli.net/2018/11/14/5bebe8ee838c7.gif)
+在环境变量中设置这些操作：
+![video2.gif](https://i.loli.net/2018/11/14/5bebeba8b17cb.gif)
+最后可以通过以下操作进行检验
+![video3.gif](https://i.loli.net/2018/11/14/5bebeba328bda.gif)
