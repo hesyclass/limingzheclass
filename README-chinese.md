@@ -20,3 +20,6 @@
 ![video2.gif](https://i.loli.net/2018/11/14/5bebeba8b17cb.gif)
 最后可以通过以下操作进行检验
 ![video3.gif](https://i.loli.net/2018/11/14/5bebeba328bda.gif)
+然后下载git去clone或download zip
+git下载：https://oj.likecoding.ooo/problem/12/testdata/download/Git-2.19.1-64-bit.exe
+感谢你的阅读，本教程完毕
