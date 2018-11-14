@@ -15,4 +15,4 @@ We should wait for it patiently, because it is very slow in China. You can try s
 
 ####  Warning : If the law in your country didn't let you to use shadowsocks, please do not download it.
 
-When it download it, 
+Then after we have downloaded it, 
