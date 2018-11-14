@@ -1,7 +1,7 @@
 # class-windows.easy
 
 
-Problem with English, Chinese-simplflied version here
+Problem with English, Chinese-simplflied version here ： https://github.com/limingzheclass/class-windows.easy/blob/master/README-chinese.md
 
 First you should download mingw to continue to use g++
 
