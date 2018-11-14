@@ -7,3 +7,6 @@
 当我们打开程序后进行如下操作：
 ![temp.PNG](https://i.loli.net/2018/11/14/5bebdade6753e.png)
 ![temp2.PNG](https://i.loli.net/2018/11/14/5bebdade798f5.png)
+可能在中国下载的速度比较慢，所以可以挂一个代理去增速。
+![temp2.PNG](https://github.com/limingzheclass/image/blob/master/direct_access.png?raw=true)
+警告：可能某些国家禁止代理，所以如果你的国家禁止代理，请勿使用代理
