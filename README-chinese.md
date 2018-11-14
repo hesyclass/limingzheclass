@@ -12,3 +12,6 @@
 下面是连接：free-ss.site的方法
 ![temp2.PNG](https://github.com/limingzheclass/image/blob/master/direct_access.png?raw=true)
 警告：可能某些国家禁止代理，所以如果你的国家禁止代理，请勿使用代理
+完成后这样就行了。
+![temp4.PNG](https://i.loli.net/2018/11/14/5bebde489722e.png)
+然后设置环境变量
