@@ -5,7 +5,7 @@ Problem with English, Chinese-simplflied version here ： https://github.com/lim
 
 First you should download mingw to continue to use g++
 
-for mingw you can download here: https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/
+for mingw you can download here: https://mirrors.tuna.tsinghua.edu.cn/osdn/mingw/68260/mingw-get-setup.exe
 
 Then you can open the installer and to install it.
 
